@@ -22,7 +22,7 @@ function Home() {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0"
           style={{
-            backgroundImage: 'url("/src/components/1732165136282-199305801937800560696425050514531078896.png")',
+            backgroundImage: 'url("https://drive.google.com/file/d/1OfRnLHs_4ct_GyPK_sMzlE1MH1cNHjtM/view?usp=sharing")',
           }}
         >
           <div className="absolute inset-0 bg-black/50" />

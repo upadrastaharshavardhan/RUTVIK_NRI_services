@@ -49,6 +49,12 @@ function Navbar() {
                 >
                   Register
                 </Link>
+                 <Link
+                  to="https://therutvik.netlify.app"
+                  className="bg-orange-600 text-white hover:bg-orange-700 px-4 py-2 rounded-md text-sm font-medium"
+                >
+                  Exit
+                </Link>
               </>
             )}
           </div>

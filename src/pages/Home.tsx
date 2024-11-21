@@ -22,7 +22,7 @@ function Home() {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0"
           style={{
-            backgroundImage: 'url("https://postimg.cc/NKkKVQbZ")',
+            backgroundImage: 'url("https://i.postimg.cc/T3ZnKwb2/p1.jpg")',
           }}
         >
           <div className="absolute inset-0 bg-black/50" />
